@@ -1,0 +1,74 @@
+[
+	{
+		"name": "货币基金",
+		"percentage": 0.15,
+		"id": "",
+		"memo": ""
+	},
+	{
+		"name": "封闭式基金",
+		"percentage": 0.15,
+		"id": "",
+		"memo": ""
+	},
+	{
+		"name": "国开ETF",
+		"percentage": 0.1,
+		"id": "159650",
+		"memo": "中债-0-3年国开行债券指数"
+	},
+	{
+		"name": "国债ETF",
+		"percentage": 0.05,
+		"id": "511010",
+		"memo": "上证5年期国债指数"
+	},
+	{
+		"name": "标普500ETF",
+		"percentage": 0.1,
+		"id": "513500",
+		"memo": ""
+	},
+	{
+		"name": "沪深300红利低波ETF",
+		"percentage": 0.1,
+		"id": "512890",
+		"memo": ""
+	},
+	{
+		"name": "恒生红利低波ETF",
+		"percentage": 0.1,
+		"id": "159545",
+		"memo": ""
+	},
+	{
+		"name": "华夏科创50ETF",
+		"percentage": 0.1,
+		"id": "588000",
+		"memo": ""
+	},
+	{
+		"name": "摩根富时发达市场REITs QDII",
+		"percentage": 0.08,
+		"id": "005613",
+		"memo": "FTSE EPRA/NAREIT Developed REITs Index"
+	},
+	{
+		"name": "国泰君安城投宽庭保租房REIT",
+		"percentage": 0.01,
+		"id": "508031",
+		"memo": "上海杨浦区的保租房"
+	},
+	{
+		"name": "中信建投国家电投新能源REIT",
+		"percentage": 0.01,
+		"id": "508028",
+		"memo": "江苏省的海上风电工程"
+	},
+	{
+		"name": "黄金ETF",
+		"percentage": 0.05,
+		"id": "518880",
+		"memo": "A股所有黄金ETF中规模最大的"
+	}
+]

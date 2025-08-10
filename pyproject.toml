@@ -1,0 +1,21 @@
+[project]
+name = "financial"
+version = "0.1.0"
+description = "理财资产配置工具 - 根据总资产数额智能分配各类投资产品"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/username/financial"
+Repository = "https://github.com/username/financial"
+
+[project.scripts]
+financial = "main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]
